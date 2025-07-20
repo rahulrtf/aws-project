@@ -1,3 +1,3 @@
 # aws-project
 this is my first git repo
-author-rahul f
+author-rahul futane
